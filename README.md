@@ -10,3 +10,7 @@
   ```
   ./game
   ```
+- Mechanics are provided in the game proper.
+
+---
+// PROPERTY OF HEPHZI-BAH TOLENTINO //
