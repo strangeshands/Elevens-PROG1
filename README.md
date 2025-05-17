@@ -1,4 +1,4 @@
-# Elevens-PROG1
+# Elevens (Solitair Game)
 **Repository for CCPROG1 MCO**
 - Uploaded for publicity purposes
 - First-ever C project
